@@ -36,7 +36,7 @@
     "@actions/github": "^4.0.0",
     "@octokit/rest": "^18.0.12",
     "handlebars": "^4.7.6",
-    "yarn-outdated-formatter": "^3.0.0"
+    "yarn-outdated-formatter": "^4.0.0"
   },
   "devDependencies": {
     "@types/jest": "^26.0.15",

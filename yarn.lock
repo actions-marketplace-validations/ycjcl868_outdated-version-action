@@ -5669,7 +5669,7 @@ jest@^25.4.0:
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
   integrity sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==
 
-js-yaml@^3.13.1:
+js-yaml@^3.0.0, js-yaml@^3.13.1:
   version "3.14.1"
   resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.14.1.tgz#dae812fdb3825fa306609a8717383c50c36a0537"
   integrity sha512-okMH7OXXJ7YrN9Ok3/SXrnu4iX9yOk+25nqX4imS2npuvTYDmo/QEZoqwZkYaIDk3jVvBOTOIEgEhaLOynBS9g==
@@ -8747,10 +8747,10 @@ yargs@15.4.1, yargs@^15.3.1:
     y18n "^4.0.0"
     yargs-parser "^18.1.2"
 
-yarn-outdated-formatter@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/yarn-outdated-formatter/-/yarn-outdated-formatter-3.0.0.tgz#77ebbe39b0499994c53d17ed641f2b051e20d401"
-  integrity sha512-00SEV1u8cfZafqWzQ9EvRjnVxC8eK+aT/dtMv9ieuICmBaZAEivG5Y9G+mrdB+UmJCd0pgiJV90y9HiNI9vs6w==
+yarn-outdated-formatter@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/yarn-outdated-formatter/-/yarn-outdated-formatter-4.0.0.tgz#50bebad908902e1d35bca2cc300301d3a3950dda"
+  integrity sha512-8fF2L859+HPyyeLRSKoG5s+vaPIjg8WrDbmWGqPHPQXymIixpSetuxBQf3bHM5m/f3bo3JPJrMSFABw7CG/Skg==
   dependencies:
     js-yaml "^4.0.0"
     meow "^9.0.0"
